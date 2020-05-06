@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Fehad</string>
+    <string name="yellow_star">Yellow_star</string>
+    <string name="bio">My Name is Fehad Amin \n\n
+        I live in Bangalore.\n\n
+        I work for a Company Called Netcracker.\n\n\n
+        I graduated from Dayananda Sagar College of Engineering.\n\n
+
+
+    </string>
+    <string name="what_is_your_nickname">What is Your NickName</string>
+    <string name="done">Done</string>
+</resources>
